@@ -2744,7 +2744,7 @@ input, select, textarea {
 				display: block;
 				margin: 0 auto 1em auto;
 				font-size: 64px;
-				padding: 1em 0 0 0;
+				padding: 1em 0 0.25em 0;
 			}
 
 			#header > header h1 {
