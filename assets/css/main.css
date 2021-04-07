@@ -2436,6 +2436,24 @@ input, select, textarea {
 				font-size: 1.25em;
 			}
 
+	ol.icons {
+		cursor: default;
+		list-style: none;
+		padding-left: 0;
+	}
+		ol.icons li {
+			display: inline-block;
+			padding: 5em 1em 2em 0;
+		}
+
+			ol.icons li:last-child {
+				padding-right: 0 !important;
+			}
+
+			ol.icons li .icon:before {
+				font-size: 4em;
+			}
+
 /* Table */
 
 	.table-wrapper {
