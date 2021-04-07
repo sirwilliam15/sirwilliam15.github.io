@@ -2743,7 +2743,7 @@ input, select, textarea {
 			#header > header .avatar {
 				display: block;
 				margin: 0 auto 1em auto;
-				font-size: 4em;
+				font-size: 64px;
 				padding: 1em 0 0 0;
 			}
 
